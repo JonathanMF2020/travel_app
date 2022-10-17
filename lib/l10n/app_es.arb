@@ -1,0 +1,33 @@
+{
+    "app": "FlopSaver",
+    "title": "Hey\nIngresa Ahora",
+    "signup": "¿Aun no tienes una cuenta?",
+    "login": "Ingresar",
+    "name": "Nombre",
+    "email": "Correo",
+    "password": "Contraseña",
+    "register": "Registrar",
+    "desc_error_1": "Necesitas llenar todos los campos",
+    "desc_error_2": "Aceptar",
+    "desc_error_3": "Tus credenciales son incorrectas",
+    "back": "Regresar",
+    "favorite": "Favorito",
+    "add_cart": "Añadir al carrito",
+    "about": "Información",
+    "review": "Calificaciónes",
+    "include": "Incluye",
+    "prices": "Precio",
+    "more": "Ver mas",
+    "title_carrito": "Listo",
+    "desc_carrito": "Se ha agregado exitosamente",
+    "pl_password": "Ingresa tu contraseña para cambiarla",
+    "phone": "Telefono",
+    "profile": "Mi perfil",
+    "save": "Guardar",
+    "out": "Cerrar sesión",
+    "best_destination": "Mejores destinos",
+    "where_to": "Destino",
+    "hi": "Hola"
+
+
+}

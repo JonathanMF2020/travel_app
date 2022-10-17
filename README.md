@@ -1,5 +1,9 @@
 # Travell App
 Este es un proyecto realizado con la finalidad de practicas mis skills en flutter, el cual permite visualizar paquetes y todo tipo de contenido de viajes.
+## Contenido
+- Contro de estados con Bloc
+- Diversos idiomas
+- Google Maps
 ## Contenido multimedia
 ![Dashboard](https://github.com/JonathanMF2020/travel_app/blob/master/%20images/dashboard.jpg)
 ![Login English](https://github.com/JonathanMF2020/travel_app/blob/master/%20images/login-english.jpg)
